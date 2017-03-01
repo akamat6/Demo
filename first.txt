@@ -1,6 +1,8 @@
 Hi there 
 I am learning git
+awda
 change made
+asdasd
 another change made
 modified
 hi
